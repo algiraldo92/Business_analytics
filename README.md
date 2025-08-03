@@ -1,8 +1,7 @@
 # business_analytics
-Internship Project
-– Marketing Expense Optimization
+Internship Project – Marketing Expense Optimization
 
-Company: Showz (event ticketing platform)
+
 Department: Analytics
 Role: Data Analytics Intern
 
@@ -18,3 +17,5 @@ Develop performance dashboards to track KPIs (cost per acquisition, conversion r
 Identify cost-saving opportunities without compromising sales growth.
 
 Present findings and actionable recommendations to stakeholders.
+
+Goal: Improve marketing efficiency by reallocating budgets to the highest-impact strategies.
