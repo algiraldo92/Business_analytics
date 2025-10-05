@@ -31,3 +31,5 @@ Present findings and actionable recommendations to stakeholders.
 #### Results: 
 
 Key metrics such as ROI, ROMI, and LTV were determined. A high cancellation rate of approximately 90% after the first purchase was also found through cohort analysis. Additionally, it was identified that the advertising campaigns were more expensive based on the customer acquisition cost.
+
+[Link Project](https://github.com/algiraldo92/Business_analytics/blob/main/Analysis.ipynb)
